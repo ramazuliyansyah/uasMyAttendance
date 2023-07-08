@@ -1,7 +1,7 @@
 UAS Mobile Programming 06TPLE009
 Rama Zuliyansyah
 
-Mahasiswa yang berkontribusi
+Mahasiswa yang berkontribusi dalam pembuatan aplikasi
 Nur Syahri Ramadhan
 Fauzan Musyaffa
 Prasetyo Nugroho
